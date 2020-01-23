@@ -1,0 +1,1 @@
+INSERT INTO `Genre` (`GenreID`, `Name`) VALUES (NULL, 'Early Hardstyle'), (NULL, 'Euphoric Hardstyle'), (NULL, 'Rawstyle'), (NULL, 'Christian Rock'), (NULL, 'Alternative Rock'), (NULL, 'Rap'), (NULL, 'Future House'), (NULL, 'Deep House'), (NULL, 'Future House'), (NULL, 'Tropical House'), (NULL, 'Big-Room House'), (NULL, 'Psytrance'), (NULL, 'Electro-House');

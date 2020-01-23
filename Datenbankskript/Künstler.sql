@@ -1,0 +1,2 @@
+INSERT INTO `Künstler` (`KünstlerID`, `Name`, `TypID`) VALUES (NULL, 'Coone', '1');
+INSERT INTO `Künstler` (`KünstlerID`, `Name`, `TypID`) VALUES (NULL, 'Wasted Penguinz', '4'), (NULL, 'Twenty One Pilots', '2'), (NULL, 'Robin Schulz', '1'), (NULL, 'Headhunterz', '1'), (NULL, 'KSHMR', '1'), (NULL, 'Sam Feldt', '1'), (NULL, 'Eminem', '1'), (NULL, 'Fall Out Boy', '2'), (NULL, 'Skillet', '2');
