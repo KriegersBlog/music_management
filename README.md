@@ -1,3 +1,3 @@
 # music_management
 
-A browser-tool to manage a music database
+haedrich.krieger-blog.de besuchen damit alles funktioniert. Dateien und Datenbank sind getrennt offline hier verfügbar.
